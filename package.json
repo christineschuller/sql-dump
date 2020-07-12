@@ -1,0 +1,15 @@
+{
+  "name": "sql-to-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christine Schuller <christine.schuller@haw-hamburg.de>",
+  "license": "private",
+  "dependencies": {
+    "oracledb": "^4.2.0"
+  }
+}
